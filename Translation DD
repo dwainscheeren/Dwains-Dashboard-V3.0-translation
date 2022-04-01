@@ -493,7 +493,7 @@ const translations = {
             climate: 'Klima',     
             sensor: 'Sensor',      
             binary_sensor: 'Binary Sensor',   
-            media_player: 'Mediensteuerung',    
+            media_player: 'Medien',    
             remote: 'Fernbedienung',      
             scene: 'Szene',     
             number: 'Nummer',   
